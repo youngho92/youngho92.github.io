@@ -6,7 +6,7 @@
 name: Youngho Jung
 
 # Short bio or description (displayed in the header)
-description: Data Scientist from somewhere
+description: Data Scientist
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars3.githubusercontent.com/u/30306253?s=460&v=4
@@ -23,7 +23,7 @@ footer-links:
   flickr:
   github: barryclark/jekyll-now
   instagram:
-  linkedin:
+  linkedin: jaydon-youngho-jung-5b2778b3/
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: jekyllrb
