@@ -17,10 +17,6 @@ Our client, WomenTechWomenYes (WTWY) has an annual gala at the beginning of the 
 ### 2. Data
 
 <table border="1">
-<colgroup>
-<col width="30%" />
-<col width="70%" />
-</colgroup>
 <thead>
 <tr class="header">
 <th>Data Source</th>
@@ -29,14 +25,20 @@ Our client, WomenTechWomenYes (WTWY) has an annual gala at the beginning of the 
 </thead>
 <tbody>
 <tr>
-<td markdown="span">First column **fields**</td>
-<td markdown="span"></td>
+<td markdown="span">MTA Turnstile Traffic</td>
+<td markdown="span">Determine busiest stations</td>
 </tr>
+  
 <tr>
-<td markdown="span">Second column **fields**</td>
-<td markdown="span">Some more descriptive text.
-</td>
+<td markdown="span">Station GPS Location</td>
+<td markdown="span">Find a zipcode for each station</td>
 </tr>
+ 
+<tr>
+<td markdown="span">NYC Tax Declaration</td>
+<td markdown="span">Find wealthy neighborhoods</td>
+</tr>
+
 </tbody>
 </table>
 
