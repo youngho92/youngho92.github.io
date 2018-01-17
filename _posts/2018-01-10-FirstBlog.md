@@ -49,8 +49,8 @@ table td {
 </colgroup>
 <thead>
 <tr class="header">
-<th>Data Source</th>
-<th>Reason</th>
+<th>**Data Source**</th>
+<th>**Reason**</th>
 </tr>
 </thead>
 <tbody>
@@ -67,6 +67,11 @@ table td {
 <tr>
 <td markdown="span">NYC Tax Declaration</td>
 <td markdown="span">Find financially empowered districts</td>
+</tr>
+
+<tr>
+<td markdown="span">Google Maps & Bingle Maps</td>
+<td markdown="span">Complement missing GPS data</td>
 </tr>
 
 </tbody>
