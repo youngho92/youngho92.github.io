@@ -49,8 +49,8 @@ table td {
 </colgroup>
 <thead>
 <tr class="header">
-<th>**Data Source**</th>
-<th>**Reason**</th>
+  <th><b>Data Source</b></th>
+  <th><b>Reason</b></th>
 </tr>
 </thead>
 <tbody>
