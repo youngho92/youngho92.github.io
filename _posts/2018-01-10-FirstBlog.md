@@ -17,6 +17,10 @@ Our client, WomenTechWomenYes (WTWY) has an annual gala at the beginning of the 
 ### 2. Data
 
 <table border="1">
+<colgroup>
+<col width="30%" />
+<col width="70%" />
+</colgroup>
 <thead>
 <tr class="header">
 <th>Data Source</th>
