@@ -16,7 +16,32 @@ Our client, WomenTechWomenYes (WTWY) has an annual gala at the beginning of the 
 
 ### 2. Data
 
-<table border="1">
+
+table {
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 24px;
+    border-spacing: 0;
+    border-bottom: 2px solid black;
+    border-top: 2px solid black;
+}
+table th {
+    padding: 3px 10px;
+    background-color: white;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: 1px solid black;
+}
+table td {
+    padding: 3px 10px;
+    border-top: none;
+    border-left: none;
+    border-bottom: none;
+    border-right: none;
+}
+
+<table>
 <colgroup>
 <col width="30%" />
 <col width="70%" />
@@ -44,22 +69,6 @@ Our client, WomenTechWomenYes (WTWY) has an annual gala at the beginning of the 
 </tr>
 
 </tbody>
-</table>
-
-
-
-
-
-<table style="border:5px double black;">
-<tr>
-<th>Table Header</th><th>Table Header</th>
-</tr>
-<tr>
-<td>Table cell 1</td><td>Table cell 2</td>
-</tr>
-<tr>
-<td>Table cell 3</td><td>Table cell 4</td>
-</tr>
 </table>
 
 
