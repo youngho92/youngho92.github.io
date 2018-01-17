@@ -42,6 +42,7 @@ table td {
 }
 </style>
 
+<!DOCTYPE html>
 <table>
 <colgroup>
 <col width="30%" />
@@ -71,5 +72,5 @@ table td {
 
 </tbody>
 </table>
-
+</html>
 
