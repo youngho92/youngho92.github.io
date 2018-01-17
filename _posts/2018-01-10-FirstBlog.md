@@ -70,7 +70,7 @@ table td {
 </tr>
 
 <tr>
-<td markdown="span">Google Maps & Bingle Maps</td>
+<td markdown="span">Google/Bingle Maps</td>
 <td markdown="span">Complement missing GPS data</td>
 </tr>
 
