@@ -16,8 +16,8 @@ Our client, WomenTechWomenYes (WTWY) has an annual gala at the beginning of the 
 
 ### 2. Data
 
-
-table {
+<style type="text/css">
+  table {
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 24px;
@@ -40,6 +40,7 @@ table td {
     border-bottom: none;
     border-right: none;
 }
+</style>
 
 <table>
 <colgroup>
