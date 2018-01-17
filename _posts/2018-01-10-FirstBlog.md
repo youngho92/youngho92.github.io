@@ -16,31 +16,6 @@ Our client, WomenTechWomenYes (WTWY) has an annual gala at the beginning of the 
 
 ### 2. Data
 
-<style type="text/css">
-  table {
-    margin-left: auto;
-    margin-right: auto;
-    margin-bottom: 24px;
-    border-spacing: 0;
-    border-bottom: 2px solid black;
-    border-top: 2px solid black;
-}
-table th {
-    padding: 3px 10px;
-    background-color: white;
-    border-top: none;
-    border-left: none;
-    border-right: none;
-    border-bottom: 1px solid black;
-}
-table td {
-    padding: 3px 10px;
-    border-top: none;
-    border-left: none;
-    border-bottom: none;
-    border-right: none;
-}
-</style>
 
 <!DOCTYPE html>
 <table>
@@ -67,7 +42,7 @@ table td {
  
 <tr>
 <td markdown="span">NYC Tax Declaration</td>
-<td markdown="span">Find wealthy neighborhoods</td>
+<td markdown="span">Find financially empowered districts</td>
 </tr>
 
 </tbody>
