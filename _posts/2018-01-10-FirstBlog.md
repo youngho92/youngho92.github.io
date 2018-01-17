@@ -21,3 +21,12 @@ Our client, WomenTechWomenYes (WTWY) has an annual gala at the beginning of the 
 | ambrosia | gala | red delicious |
 | pink lady | jazz | macintosh |
 | honeycrisp | granny smith | fuji |
+{:.mbtablestyle}
+
+.mbtablestyle {
+        border-collapse: collapse;
+
+   > table, td, th {
+        border: 1px solid black;
+        }
+}
