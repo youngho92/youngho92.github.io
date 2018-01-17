@@ -18,8 +18,7 @@ Our client, WomenTechWomenYes (WTWY) has an annual gala at the beginning of the 
 
 <style type="text/css">
   table {
-    margin-left: auto;
-    margin-right: auto;
+    margin-left: 0;
     margin-bottom: 24px;
     border-spacing: 0;
     border-bottom: 2px solid black;
@@ -29,16 +28,16 @@ table th {
     padding: 3px 10px;
     background-color: white;
     border-top: none;
-    border-left: none;
-    border-right: none;
+    border-left: 1px solid black;
+    border-right: 1px solid black;
     border-bottom: 1px solid black;
 }
 table td {
     padding: 3px 10px;
     border-top: none;
-    border-left: none;
+    border-left: 1px solid black;
     border-bottom: none;
-    border-right: none;
+    border-right: 1px solid black;
 }
 </style>
 
