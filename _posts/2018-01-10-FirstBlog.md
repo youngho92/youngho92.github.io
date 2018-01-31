@@ -57,7 +57,7 @@ table td {
 </thead>
 <tbody>
 <tr>
-<td markdown="span">MTA Turnstile Traffic</td>
+<td markdown="span">2016 MTA Turnstile Traffic</td>
 <td markdown="span">Determine busiest stations</td>
 </tr>
   
@@ -84,15 +84,18 @@ table td {
 
 <b>3-0. Data Cleaning</b>
 
-First, I acquired MTA turnstile data from <a href="http://web.mta.info/developers/turnstile.html"> MTA turnstile info </a>
-I grouped the data by the station, day, and time period and added turnstile traffic to derive the total traffic. The previous dataframe and the merged data format are as follow. 
+I acquired MTA turnstile data from <a href="http://web.mta.info/developers/turnstile.html"> MTA turnstile info </a>
+. I then grouped the data by the station, day, and time period and added turnstile traffic to derive the total traffic. The previous dataframe and the merged dataframe are as follow. 
 
 **[Before: Turnstile Traffic]**
 ![_config.yml](/images/daily traffic.png)
 
 **[After: Total Traffic]**
-![image tooltip here](/images/total traffic.png)
+![_config.yml](/images/total traffic.png)
 
 
+<b>3-1. Analysis</b>
 
-<img daily traffic>
+The following graph shows the busiest station for each time period throughout the week.
+![_config.yml](/images/most traffic.png)
+As expected, weekday traffic is higher than weekend traffic and the traffic goes up rapidly around the morning rush hour. Penn Station on the 34th street turned out to be the busiest station in New York City for most time periods.
