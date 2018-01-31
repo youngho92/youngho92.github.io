@@ -119,4 +119,10 @@ Next, I will merge the previous data with the income distribution data by matchi
 <img src="/images/Benson/income.png" width="700">
 <br>
 
+The weighted mean income varies a lot from region to region. Soho and Tribeca areas tend to be wealthier than other regions. In order to combine the income data with the traffic data, I picked the top 10 stations in terms of wealth and then sorted the stations by the size of traffic.
 
+
+<br>
+<b>4. Conclusion</b>
+
+I used two main data sources to recommend the best stations for the Summer Gala promotion: 1)New York City MTA subway turnstile data and 2)New York State income distribution by zip codes. According to the brief analysis, the penn station has the most traffic for most time periods. However, the 86th street turned out to be the most crowded when the number of entrances is considered. In order to maximize the probability of gathering donations, I filtered the stations based on the mean income of the neighborhood and then selected the 5 busiest stations out of the candidates. According to the analysis, my top 5 recommendations are Chambers Street, Wall Street, Lexington Avenue, 51st Street, and Bowling Green.
