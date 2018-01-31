@@ -86,8 +86,8 @@ table td {
 
 First, I acquired MTA turnstile data from <a href="http://web.mta.info/developers/turnstile.html"> MTA turnstile info </a>
 I grouped the data by the station, day, and time period and added turnstile traffic to derive the total traffic. The previous dataframe and the merged data format are as follow. 
-[Before: Turnstile Traffic](/path/to/daily traffic.png){:class="img-responsive"}
-#[After: Total Traffic](/path/to/image.jpgimage.jpg){:class="img-responsive"}
+[Before: Turnstile Traffic](/images/daily traffic.png){:class="img-responsive"}
+#[After: Total Traffic](/images/image.jpgimage.jpg){:class="img-responsive"}
 
 
 
