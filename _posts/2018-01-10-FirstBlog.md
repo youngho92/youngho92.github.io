@@ -105,7 +105,7 @@ As expected, weekday traffic is higher than weekend traffic and the number of su
 
 
 In order to see more detail of the specific time period, I plotted top 12 busiest stations from 4 PM to 8 PM on Thursday.
-<img src="/images/total traffic_thurs.png">
+<img src="/images/total traffic_thurs.png" width="700">
 The Penn station is the busiest as explained above and it is followed by the 23rd and Times Square stations.
 
 
