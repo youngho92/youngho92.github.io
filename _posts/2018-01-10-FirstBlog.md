@@ -57,7 +57,7 @@ table td {
 </thead>
 <tbody>
 <tr>
-<td markdown="span">2016 MTA Turnstile Traffic</td>
+<td markdown="span">MTA Turnstile Traffic</td>
 <td markdown="span">Determine busiest stations</td>
 </tr>
   
@@ -91,7 +91,7 @@ I acquired MTA turnstile data from <a href="http://web.mta.info/developers/turns
 ![_config.yml](/images/daily traffic.png)
 
 **[After: Total Traffic]**
-![_config.yml](/images/total traffic.png)
+![_config.yml](/images/total traffic.png){:height="24px" width="48px"}
 
 
 <b>3-1. Analysis</b>
