@@ -88,12 +88,11 @@ First, I acquired MTA turnstile data from <a href="http://web.mta.info/developer
 I grouped the data by the station, day, and time period and added turnstile traffic to derive the total traffic. The previous dataframe and the merged data format are as follow. 
 
 [Before: Turnstile Traffic]
-![name of the image][{{https://github.com/youngho92/youngho92.github.io/tree/master/images}}/daily traffic.png]
+![_config.yml](/images/daily traffic.png)
+
 
 ![image tooltip here](/images/daily traffic.png)
 #[After: Total Traffic](/images/image.jpgimage.jpg){:class="img-responsive"}
-
-
 
 
 
