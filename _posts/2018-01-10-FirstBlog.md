@@ -96,6 +96,9 @@ I acquired MTA turnstile data from <a href="http://web.mta.info/developers/turns
 
 <b>3-1. Analysis</b>
 
-The following graph shows the busiest station for each time period throughout the week.
+The following graph shows the busiest station for different time periods throughout the week.
 ![_config.yml](/images/most traffic.png)
-As expected, weekday traffic is higher than weekend traffic and the traffic goes up rapidly around the morning rush hour. Penn Station on the 34th street turned out to be the busiest station in New York City for most time periods.
+As expected, weekday traffic is higher than weekend traffic and the number of subway passengers goes up rapidly around the morning rush hour. Penn Station on the 34th street turned out to be the busiest station in New York City for most time periods.
+
+
+
