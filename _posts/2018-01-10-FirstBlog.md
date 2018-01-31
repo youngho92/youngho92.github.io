@@ -76,7 +76,6 @@ table td {
 
 </tbody>
 </table>
-<br>
 
 ### 3. Analysis
 
@@ -103,11 +102,13 @@ The following graph shows the busiest station for different time periods through
 ![_config.yml](/images/most traffic.png)
 
 As expected, weekday traffic is higher than weekend traffic and the number of subway passengers goes up rapidly around the morning rush hour. Penn Station on the 34th street turned out to be the busiest station in New York City for most time periods. In order to see more detail of the specific time period, I plotted top 12 busiest stations from 4 PM to 8 PM on Thursday.
+
 <br>
 <img src="/images/most traffic_thurs.png" width="700">
 <br>
 
 The Penn station turned out to be the busiest station during this time and it is followed by the 23rd and Times Square stations. However, the penn station is one of the largest stations in New York City and it is not a good idea to promote the event in all entrances. In order to consider the size of each station, I divided the traffic by the number of entrances as follow.
+
 <br>
 <img src="/images/Benson/Traffic By Entrance.png" width="700">
 <br>
@@ -115,12 +116,12 @@ The Penn station turned out to be the busiest station during this time and it is
 Now, the penn station is not the busiest anymore and the 86th street station at the upper east side has the most traffic per station. This is because the penn station has 16 entrances while the 86th station has only one entrance.
 
 Next, I will merge the previous data with the income distribution data by matching GPS coordinates and zip codes. Prior to combining the two data, I calculated the weighted mean income by zip codes in order to identify the areas with more potential donators.
+
 <br>
 <img src="/images/Benson/income.png" width="700">
 <br>
 
 The weighted mean income varies a lot from region to region. Soho and Tribeca areas tend to be wealthier than other regions. In order to combine the income data with the traffic data, I picked the top 10 stations in terms of wealth and then sorted the stations by the size of traffic.
-
 
 <br>
 <b>4. Conclusion</b>
