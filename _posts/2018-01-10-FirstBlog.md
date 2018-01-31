@@ -100,6 +100,7 @@ I acquired MTA turnstile data from <a href="http://web.mta.info/developers/turns
 
 
 **[After: Total Traffic]**
+
 <img src="/images/total traffic.png" width="200">
 
 
