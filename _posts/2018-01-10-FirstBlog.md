@@ -88,26 +88,31 @@ I acquired MTA turnstile data from <a href="http://web.mta.info/developers/turns
 
 [Before: Turnstile Traffic]
 
-<img src="/images/daily traffic.png" width="700">
+<img src="/images/daily traffic.png" width="700" align="left">
 
 
 [After: Total Traffic]
 
-<img src="/images/total traffic.png" width="350">
+<img src="/images/total traffic.png" width="350" align="left">
 
 
 <b>3-1. Analysis</b>
 
 The following graph shows the busiest station for different time periods throughout the week.
+
 ![_config.yml](/images/most traffic.png)
+
 As expected, weekday traffic is higher than weekend traffic and the number of subway passengers goes up rapidly around the morning rush hour. Penn Station on the 34th street turned out to be the busiest station in New York City for most time periods.
 
 
 
 In order to see more detail of the specific time period, I plotted top 12 busiest stations from 4 PM to 8 PM on Thursday.
-<img src="/images/most traffic_thurs.png" width="700">
+
+<img src="/images/most traffic_thurs.png" width="700" align="left">
+
 The Penn station turned out to be the busiest station during this time and it is followed by the 23rd and Times Square stations. However, the penn station is one of the largest stations in New York City and it is not a good idea to promote the event in all entrances. In order to consider the size of each station, I divided the traffic by the number of exit entrances as follow.
-<img src="/images/Benson/Traffic By Entrance.png" width="700">
+
+<img src="/images/Benson/Traffic By Entrance.png" width="700" align="left">
 
 
 
