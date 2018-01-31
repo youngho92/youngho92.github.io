@@ -85,5 +85,11 @@ table td {
 <b>3-0. Data Cleaning</b>
 
 First, I acquired MTA turnstile data from <a href="http://web.mta.info/developers/turnstile.html"> MTA turnstile info </a>
+I grouped the data by the station, day, and time period and added turnstile traffic to derive the total traffic.
+
+
+
+
+
 
 <img daily traffic>
