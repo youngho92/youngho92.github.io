@@ -9,15 +9,9 @@ title: MTA project
 This project was designed to improve data acquisition, data manipulation, data visualization, and data analysis skills with Python.
 
 
-
-
-
 ### 1. Project Description
 
 Our client, WomenTechWomenYes (WTWY) has an annual gala at the beginning of the summer each year. As WTWY is a new and vibrant organization, they want to fill the event with people passionate about increasing the participation of women in technology. They want us to optimize the placement of the street team so that they can gather the most signatures, especially who are willing to attend and donate to the organization.
-
-
-
 
 
 ### 2. Data
@@ -84,9 +78,6 @@ table td {
 </table>
 
 
-
-
-
 ### 3. Analysis
 
 <b>3-0. Data Cleaning</b>
@@ -96,6 +87,7 @@ I acquired MTA turnstile data from <a href="http://web.mta.info/developers/turns
 
 
 **[Before: Turnstile Traffic]**
+
 ![_config.yml](/images/daily traffic.png)
 
 
@@ -111,6 +103,10 @@ The following graph shows the busiest station for different time periods through
 As expected, weekday traffic is higher than weekend traffic and the number of subway passengers goes up rapidly around the morning rush hour. Penn Station on the 34th street turned out to be the busiest station in New York City for most time periods.
 
 
+
+In order to see more detail of the specific time period, I plotted top 12 busiest stations from 4 PM to 8 PM on Thursday.
+![_config.yml](/images/most traffic_thurs.png)
+The Penn station is the busiest as explained above and it is followed by the 23rd and Times Square stations.
 
 
 
