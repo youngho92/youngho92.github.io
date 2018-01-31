@@ -91,7 +91,7 @@ I acquired MTA turnstile data from <a href="http://web.mta.info/developers/turns
 ![_config.yml](/images/daily traffic.png)
 
 **[After: Total Traffic]**
-![_config.yml](/images/total traffic.png){:height="24px" width="48px"}
+![_config.yml](/images/total traffic.png){:height="60px" width="110px"}
 
 
 <b>3-1. Analysis</b>
