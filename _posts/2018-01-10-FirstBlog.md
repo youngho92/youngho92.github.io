@@ -10,9 +10,13 @@ This project was designed to improve data acquisition, data manipulation, data v
 
 
 
+
+
 ### 1. Project Description
 
 Our client, WomenTechWomenYes (WTWY) has an annual gala at the beginning of the summer each year. As WTWY is a new and vibrant organization, they want to fill the event with people passionate about increasing the participation of women in technology. They want us to optimize the placement of the street team so that they can gather the most signatures, especially who are willing to attend and donate to the organization.
+
+
 
 
 
@@ -80,6 +84,9 @@ table td {
 </table>
 
 
+
+
+
 ### 3. Analysis
 
 <b>3-0. Data Cleaning</b>
@@ -91,8 +98,7 @@ I acquired MTA turnstile data from <a href="http://web.mta.info/developers/turns
 ![_config.yml](/images/daily traffic.png)
 
 **[After: Total Traffic]**
-![_config.yml](/images/total traffic.png){:height="60px" width="110px"}
-
+![_config.yml](/images/total traffic.png)
 
 <b>3-1. Analysis</b>
 
