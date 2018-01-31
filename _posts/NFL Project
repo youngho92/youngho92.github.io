@@ -4,11 +4,16 @@ title: NFL project
 
 ---
 
-### 0. Project Motivation
+<b>0. What is Fantasy Football?</b>
 
-Fantasy football is a game in which the participants serve as the general managers of virtual professional gridiron football teams. The competitors choose their team rosters by participating in a draft in which all players of a real football 
-league are available. Points are based on the actual performances of the players in real-world competition.
+Fantasy football is a game in which the participants serve as the general managers of virtual professional gridiron football teams. The competitors choose their team rosters by participating in a draft in which all players of a real football league are available. Points are based on the actual performances of the players in real-world competition and the participant who have earned the most points will be a winner. The procedure is as follow.
+
+<img src="/images/NFL/proceure.png" width="700">
 
 
-### 1. Project Description
+<b>1. Objective and Assumptions</b>
+
+
+
+
 
