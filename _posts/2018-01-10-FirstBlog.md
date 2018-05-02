@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Data Cleaning Project: How should we allocate our advertisement team into NYC subway stations?
+title: (Data Cleaning Project) How should we allocate our advertisement team into NYC subway stations?
 
 ---
 
