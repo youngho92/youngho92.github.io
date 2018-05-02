@@ -1,6 +1,6 @@
 ---
 layout: post
-title: <p style="font-family: 'Century Gothic', font-size: 16px;><b>[Data Cleaning] How should we allocate our advertisement team into NYC subway stations? </p>
+title: (Data Cleaning) How should we allocate our advertisement team into NYC subway stations?
 
 ---
 
