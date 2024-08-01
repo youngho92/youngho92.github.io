@@ -7,6 +7,6 @@ Since I came to NY, I have been a witness to the transformation of the finance i
 
 ### Contact me
 
-linkedin: [https://www.linkedin.com/in/youngho-jung92/](url)
+linkedin: [https://www.linkedin.com/in/youngho-jung92/](url) 
 email: [youngho.jung92@gmail.com](mailto:youngho.jung92@gmail.com)  
 mobile: (347)426-6183
